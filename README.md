@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pascal
-- 👀 I’m interested in C# .NET Core
-- 🌱 I’m currently learning Github :)
+- 👀 I’m interested in C# .NET Core, BIM
 - 📫 How to reach me pgomict@outlook.com
 
 <!---
